@@ -1,7 +1,7 @@
 # CoffeeMachine
 Builing a simple coffee machine program using python
 
-#test sample of the program:
+# test sample of the program:
 
 Write action (buy, fill, take, remaining, exit):
 > remaining
