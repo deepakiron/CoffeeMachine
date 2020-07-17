@@ -18,6 +18,7 @@ Write action (buy, fill, take, remaining, exit):
  
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
+
 I have enough resources, making you a coffee!
  
 Write action (buy, fill, take, remaining, exit):
@@ -35,6 +36,7 @@ Write action (buy, fill, take, remaining, exit):
  
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
+
 Sorry, not enough water!
  
 Write action (buy, fill, take, remaining, exit):
